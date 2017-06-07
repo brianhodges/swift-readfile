@@ -1,5 +1,5 @@
 # Read Local .csv File (Swift)
-Just a reference for myself to refer back to when working on future Swift projects. Reads in local CSV file. Needs Xcode
+Just a reference for myself to refer back to when working on future Swift projects. Reads in local CSV file. (Xcode needed)
 
 # Setup
 *To Run:*
